@@ -1,6 +1,6 @@
 # 📄 HashWarden: Verifiable Document Registry on Internet Computer
 
-HashWarden is a modular and scalable dApp for **tamper-proof document verification** using the **Internet Computer Protocol (ICP)**. This system allows users to submit, validate, and audit document hashes securely, with features for verifier access control, frontend integration, and backend management.
+HashWarden is a scalable dApp for **tamper-proof document verification** using the **Internet Computer Protocol (ICP)**. This system allows users to submit, validate, and audit document hashes securely, with features for verifier access control, frontend integration, and backend management.
 
 ---
 
