@@ -28,6 +28,7 @@ npm run dev
 ### 4. Deploy Canister (ICP Backend)
 
 Make sure you have [DFX SDK](https://internetcomputer.org/docs/current/developer-docs/setup/install/) installed:
+raplace canister id on /src/backend_id.js
 
 ```bash
 dfx start --background
