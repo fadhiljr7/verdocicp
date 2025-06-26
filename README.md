@@ -39,10 +39,10 @@ dfx deploy
 
 ## ✨ Features
 
-* 🔒 SHA-256 hashing & submission to ICP canister
+* 🔒 Submission to ICP canister
 * ✅ Verifier whitelisting & audit logging
 * 🌐 Modern React + Tailwind + Framer Motion frontend
-* 📦 Modular & scalable design
+* 📦 Scalable design
 * 🛡️ Authenticated access for managing verifiers and credentials
 
 ---
